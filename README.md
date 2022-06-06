@@ -1,5 +1,5 @@
 #Practica Azure Virtual Machine
-![Virtual Machine](img\vm.png)
+![Virtual Machine](img/vm.png)
 
 ----------------------------------------------------------------
 ##Process:
